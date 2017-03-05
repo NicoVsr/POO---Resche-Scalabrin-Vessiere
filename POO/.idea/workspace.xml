@@ -1,0 +1,535 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a9b74fdd-b6a7-46ee-ad38-0ae9d8b31bd8" name="Default" comment="" />
+    <ignored path="download.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="download" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="692">
+              <caret line="263" column="25" selection-start-line="263" selection-start-column="25" selection-end-line="263" selection-end-column="25" />
+              <folding>
+                <marker date="1487931458000" expanded="true" signature="6607:6631" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1950">
+              <caret line="130" column="55" selection-start-line="130" selection-start-column="55" selection-end-line="130" selection-end-column="55" />
+              <folding>
+                <marker date="1487931623000" expanded="true" signature="3276:3299" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MonstresManager.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MonstresManager.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1487923326000" expanded="true" signature="180:216" ph="INSERT INTO hero... " />
+                <marker date="1487923326000" expanded="true" signature="478:503" ph="SELECT COUNT... hero" />
+                <marker date="1487923326000" expanded="true" signature="592:620" ph="DELETE FROM " />
+                <marker date="1487923326000" expanded="true" signature="738:775" ph="SELECT COUNT... hero" />
+                <marker date="1487923326000" expanded="true" signature="835:877" ph="SELECT COUNT... hero" />
+                <marker date="1487923326000" expanded="true" signature="1043:1104" ph="SELECT id, n... hero" />
+                <marker date="1487923326000" expanded="true" signature="1232:1297" ph="SELECT id, n... hero" />
+                <marker date="1487923326000" expanded="true" signature="1500:1579" ph="SELECT id, n... hero" />
+                <marker date="1487923326000" expanded="true" signature="1812:1895" ph="UPDATE hero " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Personnage.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Personnage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PersonnagesManager.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PersonnagesManager.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+              <folding>
+                <marker date="1487931458000" expanded="true" signature="182:218" ph="INSERT INTO hero... " />
+                <marker date="1487931458000" expanded="true" signature="473:498" ph="SELECT COUNT... hero" />
+                <marker date="1487931458000" expanded="true" signature="587:615" ph="DELETE FROM " />
+                <marker date="1487931458000" expanded="true" signature="730:767" ph="SELECT COUNT... hero" />
+                <marker date="1487931458000" expanded="true" signature="825:867" ph="SELECT COUNT... hero" />
+                <marker date="1487931458000" expanded="true" signature="1030:1091" ph="SELECT id, n... hero" />
+                <marker date="1487931458000" expanded="true" signature="1217:1282" ph="SELECT id, n... hero" />
+                <marker date="1487931458000" expanded="true" signature="1483:1562" ph="SELECT id, n... hero" />
+                <marker date="1487931458000" expanded="true" signature="1794:1877" ph="UPDATE hero " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PersonnagesManager.php" />
+        <option value="$PROJECT_DIR$/Personnage.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$USER_HOME$/Downloads/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="POO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="POO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="POO" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9b74fdd-b6a7-46ee-ad38-0ae9d8b31bd8" name="Default" comment="" />
+      <created>1487927509828</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487927509828</updated>
+      <workItem from="1487927511032" duration="718000" />
+      <workItem from="1487928346590" duration="2749000" />
+      <workItem from="1487937829782" duration="138000" />
+      <workItem from="1488462007274" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3640000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3945">
+          <caret line="263" column="25" selection-start-line="263" selection-start-column="25" selection-end-line="263" selection-end-column="25" />
+          <folding>
+            <marker date="1487931458000" expanded="true" signature="6607:6631" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="130" column="55" selection-start-line="130" selection-start-column="55" selection-end-line="130" selection-end-column="55" />
+          <folding>
+            <marker date="1487931623000" expanded="true" signature="3276:3299" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MonstresManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1487923326000" expanded="true" signature="180:216" ph="INSERT INTO hero... " />
+            <marker date="1487923326000" expanded="true" signature="478:503" ph="SELECT COUNT... hero" />
+            <marker date="1487923326000" expanded="true" signature="592:620" ph="DELETE FROM " />
+            <marker date="1487923326000" expanded="true" signature="738:775" ph="SELECT COUNT... hero" />
+            <marker date="1487923326000" expanded="true" signature="835:877" ph="SELECT COUNT... hero" />
+            <marker date="1487923326000" expanded="true" signature="1043:1104" ph="SELECT id, n... hero" />
+            <marker date="1487923326000" expanded="true" signature="1232:1297" ph="SELECT id, n... hero" />
+            <marker date="1487923326000" expanded="true" signature="1500:1579" ph="SELECT id, n... hero" />
+            <marker date="1487923326000" expanded="true" signature="1812:1895" ph="UPDATE hero " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Personnage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonnagesManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <marker date="1487931458000" expanded="true" signature="182:218" ph="INSERT INTO hero... " />
+            <marker date="1487931458000" expanded="true" signature="473:498" ph="SELECT COUNT... hero" />
+            <marker date="1487931458000" expanded="true" signature="587:615" ph="DELETE FROM " />
+            <marker date="1487931458000" expanded="true" signature="730:767" ph="SELECT COUNT... hero" />
+            <marker date="1487931458000" expanded="true" signature="825:867" ph="SELECT COUNT... hero" />
+            <marker date="1487931458000" expanded="true" signature="1030:1091" ph="SELECT id, n... hero" />
+            <marker date="1487931458000" expanded="true" signature="1217:1282" ph="SELECT id, n... hero" />
+            <marker date="1487931458000" expanded="true" signature="1483:1562" ph="SELECT id, n... hero" />
+            <marker date="1487931458000" expanded="true" signature="1794:1877" ph="UPDATE hero " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/hero.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3945">
+          <caret line="263" column="25" selection-start-line="263" selection-start-column="25" selection-end-line="263" selection-end-column="25" />
+          <folding>
+            <marker date="1487931458000" expanded="true" signature="6607:6631" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1487931623000" expanded="true" signature="3276:3299" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MonstresManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1487923326000" expanded="true" signature="180:216" ph="INSERT INTO hero... " />
+            <marker date="1487923326000" expanded="true" signature="478:503" ph="SELECT COUNT... hero" />
+            <marker date="1487923326000" expanded="true" signature="592:620" ph="DELETE FROM " />
+            <marker date="1487923326000" expanded="true" signature="738:775" ph="SELECT COUNT... hero" />
+            <marker date="1487923326000" expanded="true" signature="835:877" ph="SELECT COUNT... hero" />
+            <marker date="1487923326000" expanded="true" signature="1043:1104" ph="SELECT id, n... hero" />
+            <marker date="1487923326000" expanded="true" signature="1232:1297" ph="SELECT id, n... hero" />
+            <marker date="1487923326000" expanded="true" signature="1500:1579" ph="SELECT id, n... hero" />
+            <marker date="1487923326000" expanded="true" signature="1812:1895" ph="UPDATE hero " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Personnage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonnagesManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <marker date="1487931458000" expanded="true" signature="182:218" ph="INSERT INTO hero... " />
+            <marker date="1487931458000" expanded="true" signature="473:498" ph="SELECT COUNT... hero" />
+            <marker date="1487931458000" expanded="true" signature="587:615" ph="DELETE FROM " />
+            <marker date="1487931458000" expanded="true" signature="730:767" ph="SELECT COUNT... hero" />
+            <marker date="1487931458000" expanded="true" signature="825:867" ph="SELECT COUNT... hero" />
+            <marker date="1487931458000" expanded="true" signature="1030:1091" ph="SELECT id, n... hero" />
+            <marker date="1487931458000" expanded="true" signature="1217:1282" ph="SELECT id, n... hero" />
+            <marker date="1487931458000" expanded="true" signature="1483:1562" ph="SELECT id, n... hero" />
+            <marker date="1487931458000" expanded="true" signature="1794:1877" ph="UPDATE hero " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/hero.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1487931458000" expanded="true" signature="6607:6631" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonnagesManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="95" selection-end-column="1" />
+          <folding>
+            <marker date="1487931458000" expanded="true" signature="182:218" ph="INSERT INTO hero... " />
+            <marker date="1487931458000" expanded="true" signature="473:498" ph="SELECT COUNT... hero" />
+            <marker date="1487931458000" expanded="true" signature="587:615" ph="DELETE FROM " />
+            <marker date="1487931458000" expanded="true" signature="730:767" ph="SELECT COUNT... hero" />
+            <marker date="1487931458000" expanded="true" signature="825:867" ph="SELECT COUNT... hero" />
+            <marker date="1487931458000" expanded="true" signature="1030:1091" ph="SELECT id, n... hero" />
+            <marker date="1487931458000" expanded="true" signature="1217:1282" ph="SELECT id, n... hero" />
+            <marker date="1487931458000" expanded="true" signature="1483:1562" ph="SELECT id, n... hero" />
+            <marker date="1487931458000" expanded="true" signature="1794:1877" ph="UPDATE hero " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/hero.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/hero.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Personnage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MonstresManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1487923326000" expanded="true" signature="180:216" ph="INSERT INTO hero... " />
+            <marker date="1487923326000" expanded="true" signature="478:503" ph="SELECT COUNT... hero" />
+            <marker date="1487923326000" expanded="true" signature="592:620" ph="DELETE FROM " />
+            <marker date="1487923326000" expanded="true" signature="738:775" ph="SELECT COUNT... hero" />
+            <marker date="1487923326000" expanded="true" signature="835:877" ph="SELECT COUNT... hero" />
+            <marker date="1487923326000" expanded="true" signature="1043:1104" ph="SELECT id, n... hero" />
+            <marker date="1487923326000" expanded="true" signature="1232:1297" ph="SELECT id, n... hero" />
+            <marker date="1487923326000" expanded="true" signature="1500:1579" ph="SELECT id, n... hero" />
+            <marker date="1487923326000" expanded="true" signature="1812:1895" ph="UPDATE hero " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PersonnagesManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <marker date="1487931458000" expanded="true" signature="182:218" ph="INSERT INTO hero... " />
+            <marker date="1487931458000" expanded="true" signature="473:498" ph="SELECT COUNT... hero" />
+            <marker date="1487931458000" expanded="true" signature="587:615" ph="DELETE FROM " />
+            <marker date="1487931458000" expanded="true" signature="730:767" ph="SELECT COUNT... hero" />
+            <marker date="1487931458000" expanded="true" signature="825:867" ph="SELECT COUNT... hero" />
+            <marker date="1487931458000" expanded="true" signature="1030:1091" ph="SELECT id, n... hero" />
+            <marker date="1487931458000" expanded="true" signature="1217:1282" ph="SELECT id, n... hero" />
+            <marker date="1487931458000" expanded="true" signature="1483:1562" ph="SELECT id, n... hero" />
+            <marker date="1487931458000" expanded="true" signature="1794:1877" ph="UPDATE hero " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="130" column="55" selection-start-line="130" selection-start-column="55" selection-end-line="130" selection-end-column="55" />
+          <folding>
+            <marker date="1487931623000" expanded="true" signature="3276:3299" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="692">
+          <caret line="263" column="25" selection-start-line="263" selection-start-column="25" selection-end-line="263" selection-end-column="25" />
+          <folding>
+            <marker date="1487931458000" expanded="true" signature="6607:6631" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
